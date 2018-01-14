@@ -1,0 +1,46 @@
+body {
+background-image:url(alien6image.png);
+text-align: left;
+width: fit-content;
+font-size: xx-large;
+font-style: italic;
+color: lawngreen;
+}
+
+.res{
+    font-size: xx-large;
+    border: outset;
+    color:red;
+    text-align: center;
+}
+.titredebpa{
+    text-align:center;
+    color:white;
+}
+.Valider {
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #132913);
+  background-image: -moz-linear-gradient(top, #000000, #132913);
+  background-image: -ms-linear-gradient(top, #000000, #132913);
+  background-image: -o-linear-gradient(top, #000000, #132913);
+  background-image: linear-gradient(to bottom, #000000, #132913);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #00fa08;
+  font-size: 18px;
+  padding: 11px 25px 10px 20px;
+  border: solid #15ff00 2px;
+  text-decoration: none;
+}
+
+.Valider:hover {
+  background: #9e1818;
+  background-image: -webkit-linear-gradient(top, #9e1818, #ed0000);
+  background-image: -moz-linear-gradient(top, #9e1818, #ed0000);
+  background-image: -ms-linear-gradient(top, #9e1818, #ed0000);
+  background-image: -o-linear-gradient(top, #9e1818, #ed0000);
+  background-image: linear-gradient(to bottom, #9e1818, #ed0000);
+  text-decoration: none;
+}
